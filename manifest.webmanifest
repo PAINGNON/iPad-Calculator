@@ -17,7 +17,7 @@
     "categories": ["utilites", "productivity", "calculator"],
     "screenshots" : [
         {
-            "src": "/iPad-Calculator/images/calculator-image.jpeg",
+            "src": "image/png",
             "sizes": "1280x889",
             "type": "image/jpeg",
             "platform": "wide",
